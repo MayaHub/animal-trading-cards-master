@@ -1,0 +1,41 @@
+body {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid lightgrey;
+    box-shadow: 5px 5px lightgray;
+}
+
+p {
+    margin-left: 5px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 5px;
+    padding: 0;
+}
+
+em {
+    font-weight: bold;
+    font-style: normal;
+}
+
+h3 {
+    margin-left: auto;
+}
+
+img {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#fact {
+    font-style: italic;
+}
+
+.text-box {
+    border: 1px solid lightgrey;
+    margin-top: 15px;
+}
